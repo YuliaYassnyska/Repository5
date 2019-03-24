@@ -25,8 +25,8 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;2019</copyright>
     <item>
-      <title>File: 11,
-             Errors: 142,
+      <title>File: 12,
+             Errors: 201,
              Warnings: 0,
              Infos: 0
       </title>
@@ -88,20 +88,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="http://maven.apache.org/checkstyle.html#ua.lviv.iot.armament.managers.Main.java">ua/lviv/iot/armament/managers/Main.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  14
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="http://maven.apache.org/checkstyle.html#ua.lviv.iot.armament.model.User.java">ua/lviv/iot/armament/model/User.java</a>
                 </td>
                 <td>
@@ -112,6 +98,34 @@ under the License.
                 </td>
                 <td>
                   3
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#ua.lviv.iot.armament.managers.MilitaryManagerImpl.java">ua/lviv/iot/armament/managers/MilitaryManagerImpl.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  38
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#ua.lviv.iot.armament.managers.MilitaryManagerImplTest.java">ua/lviv/iot/armament/managers/MilitaryManagerImplTest.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  48
                 </td>
               </tr>
                           <tr>
@@ -153,7 +167,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  16
+                  3
                 </td>
               </tr>
                           <tr>

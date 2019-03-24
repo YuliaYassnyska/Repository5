@@ -2,27 +2,5 @@
 <pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
-    version="6.8.0" timestamp="2019-02-21T00:17:48.643">
-<file name="C:\Users\test\eclipse-workspace\armamentProject\src\main\java\ua\lviv\iot\armament\managers\Main.java">
-<violation beginline="43" endline="43" begincolumn="16" endcolumn="44" rule="UselessParentheses" ruleset="Code Style" package="ua.lviv.iot.armament.managers" class="Main" method="main" externalInfoUrl="https://pmd.github.io/pmd-6.8.0/pmd_rules_java_codestyle.html#uselessparentheses" priority="4">
-Useless parentheses.
-</violation>
-<violation beginline="50" endline="50" begincolumn="16" endcolumn="44" rule="UselessParentheses" ruleset="Code Style" package="ua.lviv.iot.armament.managers" class="Main" method="main" externalInfoUrl="https://pmd.github.io/pmd-6.8.0/pmd_rules_java_codestyle.html#uselessparentheses" priority="4">
-Useless parentheses.
-</violation>
-</file>
-<file name="C:\Users\test\eclipse-workspace\armamentProject\src\main\java\ua\lviv\iot\armament\managers\MilitaryManager.java">
-<violation beginline="26" endline="26" begincolumn="32" endcolumn="46" rule="UselessParentheses" ruleset="Code Style" package="ua.lviv.iot.armament.managers" class="MilitaryManager" method="sortByPrice" externalInfoUrl="https://pmd.github.io/pmd-6.8.0/pmd_rules_java_codestyle.html#uselessparentheses" priority="4">
-Useless parentheses.
-</violation>
-<violation beginline="27" endline="27" begincolumn="22" endcolumn="36" rule="UselessParentheses" ruleset="Code Style" package="ua.lviv.iot.armament.managers" class="MilitaryManager" method="sortByPrice" externalInfoUrl="https://pmd.github.io/pmd-6.8.0/pmd_rules_java_codestyle.html#uselessparentheses" priority="4">
-Useless parentheses.
-</violation>
-<violation beginline="47" endline="47" begincolumn="30" endcolumn="45" rule="UselessParentheses" ruleset="Code Style" package="ua.lviv.iot.armament.managers" class="MilitaryManager" method="sortByAmount" externalInfoUrl="https://pmd.github.io/pmd-6.8.0/pmd_rules_java_codestyle.html#uselessparentheses" priority="4">
-Useless parentheses.
-</violation>
-<violation beginline="47" endline="47" begincolumn="50" endcolumn="65" rule="UselessParentheses" ruleset="Code Style" package="ua.lviv.iot.armament.managers" class="MilitaryManager" method="sortByAmount" externalInfoUrl="https://pmd.github.io/pmd-6.8.0/pmd_rules_java_codestyle.html#uselessparentheses" priority="4">
-Useless parentheses.
-</violation>
-</file>
+    version="6.8.0" timestamp="2019-03-21T22:32:37.941">
 </pmd>
