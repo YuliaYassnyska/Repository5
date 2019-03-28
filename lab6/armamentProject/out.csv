@@ -1,0 +1,10 @@
+type, price, power, use, user, amount
+PISTOLS, 3000.0, HIGH, ATTACK, CIVIL, 3
+type, price, power, use, user, amount, caliber, kind
+SNIPERDEVISE, 2000.5, MIDDLE, DEFENSE, CIVIL, 2, 9, Mossina-Nagana
+type, price, power, use, user, amount, modified, name
+SNIPERDEVISE, 4500.0, HIGH, ATTACK, COLDIER, 1, 8,6×32, .338 Spectre
+type, price, power, use, user, amount, origin, name
+GRENADES, 1500.0, LOW, DEFENSE, CIVIL, 4, Germany, Flashbang
+type, price, power, use, user, amount
+PISTOLS, 5000.0, MIDDLE, ATTACK, COLDIER, 5

@@ -1,0 +1,11 @@
+ua\lviv\iot\armament\model\Power.class
+ua\lviv\iot\armament\managers\Main.class
+ua\lviv\iot\armament\model\Grenade.class
+ua\lviv\iot\armament\model\Use.class
+ua\lviv\iot\armament\model\User.class
+ua\lviv\iot\armament\model\Armament.class
+ua\lviv\iot\armament\model\Pistol.class
+ua\lviv\iot\armament\managers\MilitaryManager.class
+ua\lviv\iot\armament\model\SpecialAutomotiveEquipment.class
+ua\lviv\iot\armament\model\SniperRifles.class
+ua\lviv\iot\armament\model\ApartmentType.class
