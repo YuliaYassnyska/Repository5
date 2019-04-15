@@ -12,26 +12,17 @@ import javax.persistence.Inheritance;
 import javax.persistence.InheritanceType;
 
 @Entity
-@Inheritance(strategy=InheritanceType.SINGLE_TABLE)  
-@DiscriminatorColumn(name="type",discriminatorType=DiscriminatorType.STRING)  
-@DiscriminatorValue(value="ParentClass") 
 public class Armament {
 
   @Id
   @GeneratedValue(strategy = GenerationType.AUTO)
   private Integer id;
 
-  @Column
   private ApartmentType type;
-  @Column
   private double price;
-  @Column
   private Power power;
-  @Column
   private Use use;
-  @Column
   private User user;
-  @Column
   private int amount;
 
 	public Armament() {
